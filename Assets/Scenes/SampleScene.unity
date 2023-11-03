@@ -184,90 +184,36 @@ MonoBehaviour:
   connectivity: {fileID: 1010742302}
   kind: 1
   connections:
-  - field: {fileID: 4855227}
-    connectionType: 22
-    quadrants: 1
-    index: 0
-    flags: 1
-    knob: {fileID: 0}
-    tubes: []
-  - field: {fileID: 4855227}
-    connectionType: 22
-    quadrants: 2
-    index: 1
-    flags: 1
-    knob: {fileID: 0}
-    tubes: []
-  - field: {fileID: 4855227}
-    connectionType: 22
-    quadrants: 1
-    index: 2
-    flags: 1
-    knob: {fileID: 0}
-    tubes: []
-  - field: {fileID: 4855227}
-    connectionType: 22
-    quadrants: 2
-    index: 3
-    flags: 1
-    knob: {fileID: 0}
-    tubes: []
-  - field: {fileID: 4855227}
-    connectionType: 15
-    quadrants: 4
-    index: 4
-    flags: 0
-    knob: {fileID: 0}
-    tubes: []
-  - field: {fileID: 4855227}
-    connectionType: 22
-    quadrants: 2
-    index: 5
-    flags: 1
-    knob: {fileID: 0}
-    tubes: []
-  - field: {fileID: 4855227}
-    connectionType: 22
-    quadrants: 1
-    index: 6
-    flags: 1
-    knob: {fileID: 0}
-    tubes: []
-  - field: {fileID: 4855227}
-    connectionType: 22
-    quadrants: 2
-    index: 7
-    flags: 1
-    knob: {fileID: 0}
-    tubes: []
-  - field: {fileID: 4855227}
-    connectionType: 22
-    quadrants: 1
-    index: 8
-    flags: 1
-    knob: {fileID: 0}
-    tubes: []
+  - {field: {fileID: 4855227}, connectionType: 22, quadrants: 1, index: 0, flags: 1, knob: {fileID: 0}, tubes: []
+}
+  - {field: {fileID: 4855227}, connectionType: 22, quadrants: 2, index: 1, flags: 1, knob: {fileID: 0}, tubes: []
+}
+  - {field: {fileID: 4855227}, connectionType: 22, quadrants: 1, index: 2, flags: 1, knob: {fileID: 0}, tubes: []
+}
+  - {field: {fileID: 4855227}, connectionType: 22, quadrants: 2, index: 3, flags: 1, knob: {fileID: 0}, tubes: []
+}
+  - {field: {fileID: 4855227}, connectionType: 15, quadrants: 4, index: 4, flags: 0, knob: {fileID: 0}, tubes: []
+}
+  - {field: {fileID: 4855227}, connectionType: 22, quadrants: 2, index: 5, flags: 1, knob: {fileID: 0}, tubes: []
+}
+  - {field: {fileID: 4855227}, connectionType: 22, quadrants: 1, index: 6, flags: 1, knob: {fileID: 0}, tubes: []
+}
+  - {field: {fileID: 4855227}, connectionType: 22, quadrants: 2, index: 7, flags: 1, knob: {fileID: 0}, tubes: []
+}
+  - {field: {fileID: 4855227}, connectionType: 22, quadrants: 1, index: 8, flags: 1, knob: {fileID: 0}, tubes: []
+}
   connected: 
   connectableConnections: 9
   connectedTo:
-  - field: {fileID: 0}
-    indexOfConnection: 0
-  - field: {fileID: 0}
-    indexOfConnection: 0
-  - field: {fileID: 0}
-    indexOfConnection: 0
-  - field: {fileID: 0}
-    indexOfConnection: 0
-  - field: {fileID: 0}
-    indexOfConnection: 0
-  - field: {fileID: 0}
-    indexOfConnection: 0
-  - field: {fileID: 0}
-    indexOfConnection: 0
-  - field: {fileID: 0}
-    indexOfConnection: 0
-  - field: {fileID: 0}
-    indexOfConnection: 0
+  - {field: {fileID: 0}, indexOfConnection: 0}
+  - {field: {fileID: 0}, indexOfConnection: 0}
+  - {field: {fileID: 0}, indexOfConnection: 0}
+  - {field: {fileID: 0}, indexOfConnection: 0}
+  - {field: {fileID: 0}, indexOfConnection: 0}
+  - {field: {fileID: 0}, indexOfConnection: 0}
+  - {field: {fileID: 0}, indexOfConnection: 0}
+  - {field: {fileID: 0}, indexOfConnection: 0}
+  - {field: {fileID: 0}, indexOfConnection: 0}
   gridSize: {x: 2, y: 2}
 --- !u!1 &9256088
 GameObject:
@@ -597,144 +543,54 @@ MonoBehaviour:
   connectivity: {fileID: 1943752911}
   kind: 1
   connections:
-  - field: {fileID: 46945034}
-    connectionType: 22
-    quadrants: 1
-    index: 0
-    flags: 1
-    knob: {fileID: 0}
-    tubes: []
-  - field: {fileID: 46945034}
-    connectionType: 22
-    quadrants: 2
-    index: 1
-    flags: 1
-    knob: {fileID: 0}
-    tubes: []
-  - field: {fileID: 46945034}
-    connectionType: 22
-    quadrants: 2
-    index: 2
-    flags: 1
-    knob: {fileID: 0}
-    tubes: []
-  - field: {fileID: 46945034}
-    connectionType: 22
-    quadrants: 2
-    index: 3
-    flags: 1
-    knob: {fileID: 0}
-    tubes: []
-  - field: {fileID: 46945034}
-    connectionType: 22
-    quadrants: 1
-    index: 4
-    flags: 1
-    knob: {fileID: 0}
-    tubes: []
-  - field: {fileID: 46945034}
-    connectionType: 22
-    quadrants: 2
-    index: 5
-    flags: 1
-    knob: {fileID: 0}
-    tubes: []
-  - field: {fileID: 46945034}
-    connectionType: 15
-    quadrants: 4
-    index: 6
-    flags: 1
-    knob: {fileID: 0}
-    tubes: []
-  - field: {fileID: 46945034}
-    connectionType: 23
-    quadrants: 4
-    index: 7
-    flags: 1
-    knob: {fileID: 0}
-    tubes: []
-  - field: {fileID: 46945034}
-    connectionType: 15
-    quadrants: 4
-    index: 8
-    flags: 1
-    knob: {fileID: 0}
-    tubes: []
-  - field: {fileID: 46945034}
-    connectionType: 22
-    quadrants: 2
-    index: 9
-    flags: 1
-    knob: {fileID: 0}
-    tubes: []
-  - field: {fileID: 46945034}
-    connectionType: 22
-    quadrants: 1
-    index: 10
-    flags: 1
-    knob: {fileID: 0}
-    tubes: []
-  - field: {fileID: 46945034}
-    connectionType: 22
-    quadrants: 2
-    index: 11
-    flags: 1
-    knob: {fileID: 0}
-    tubes: []
-  - field: {fileID: 46945034}
-    connectionType: 22
-    quadrants: 2
-    index: 12
-    flags: 1
-    knob: {fileID: 0}
-    tubes: []
-  - field: {fileID: 46945034}
-    connectionType: 22
-    quadrants: 2
-    index: 13
-    flags: 1
-    knob: {fileID: 0}
-    tubes: []
-  - field: {fileID: 46945034}
-    connectionType: 22
-    quadrants: 1
-    index: 14
-    flags: 1
-    knob: {fileID: 0}
-    tubes: []
+  - {field: {fileID: 46945034}, connectionType: 22, quadrants: 1, index: 0, flags: 1, knob: {fileID: 0}, tubes: []
+}
+  - {field: {fileID: 46945034}, connectionType: 22, quadrants: 2, index: 1, flags: 1, knob: {fileID: 0}, tubes: []
+}
+  - {field: {fileID: 46945034}, connectionType: 22, quadrants: 2, index: 2, flags: 1, knob: {fileID: 0}, tubes: []
+}
+  - {field: {fileID: 46945034}, connectionType: 22, quadrants: 2, index: 3, flags: 1, knob: {fileID: 0}, tubes: []
+}
+  - {field: {fileID: 46945034}, connectionType: 22, quadrants: 1, index: 4, flags: 1, knob: {fileID: 0}, tubes: []
+}
+  - {field: {fileID: 46945034}, connectionType: 22, quadrants: 2, index: 5, flags: 1, knob: {fileID: 0}, tubes: []
+}
+  - {field: {fileID: 46945034}, connectionType: 15, quadrants: 4, index: 6, flags: 1, knob: {fileID: 0}, tubes: []
+}
+  - {field: {fileID: 46945034}, connectionType: 23, quadrants: 4, index: 7, flags: 1, knob: {fileID: 0}, tubes: []
+}
+  - {field: {fileID: 46945034}, connectionType: 15, quadrants: 4, index: 8, flags: 1, knob: {fileID: 0}, tubes: []
+}
+  - {field: {fileID: 46945034}, connectionType: 22, quadrants: 2, index: 9, flags: 1, knob: {fileID: 0}, tubes: []
+}
+  - {field: {fileID: 46945034}, connectionType: 22, quadrants: 1, index: 10, flags: 1, knob: {fileID: 0}, tubes: []
+}
+  - {field: {fileID: 46945034}, connectionType: 22, quadrants: 2, index: 11, flags: 1, knob: {fileID: 0}, tubes: []
+}
+  - {field: {fileID: 46945034}, connectionType: 22, quadrants: 2, index: 12, flags: 1, knob: {fileID: 0}, tubes: []
+}
+  - {field: {fileID: 46945034}, connectionType: 22, quadrants: 2, index: 13, flags: 1, knob: {fileID: 0}, tubes: []
+}
+  - {field: {fileID: 46945034}, connectionType: 22, quadrants: 1, index: 14, flags: 1, knob: {fileID: 0}, tubes: []
+}
   connected: 
   connectableConnections: 15
   connectedTo:
-  - field: {fileID: 0}
-    indexOfConnection: 0
-  - field: {fileID: 0}
-    indexOfConnection: 0
-  - field: {fileID: 0}
-    indexOfConnection: 0
-  - field: {fileID: 0}
-    indexOfConnection: 0
-  - field: {fileID: 0}
-    indexOfConnection: 0
-  - field: {fileID: 0}
-    indexOfConnection: 0
-  - field: {fileID: 0}
-    indexOfConnection: 0
-  - field: {fileID: 0}
-    indexOfConnection: 0
-  - field: {fileID: 0}
-    indexOfConnection: 0
-  - field: {fileID: 0}
-    indexOfConnection: 0
-  - field: {fileID: 0}
-    indexOfConnection: 0
-  - field: {fileID: 0}
-    indexOfConnection: 0
-  - field: {fileID: 0}
-    indexOfConnection: 0
-  - field: {fileID: 0}
-    indexOfConnection: 0
-  - field: {fileID: 0}
-    indexOfConnection: 0
+  - {field: {fileID: 0}, indexOfConnection: 0}
+  - {field: {fileID: 0}, indexOfConnection: 0}
+  - {field: {fileID: 0}, indexOfConnection: 0}
+  - {field: {fileID: 0}, indexOfConnection: 0}
+  - {field: {fileID: 0}, indexOfConnection: 0}
+  - {field: {fileID: 0}, indexOfConnection: 0}
+  - {field: {fileID: 0}, indexOfConnection: 0}
+  - {field: {fileID: 0}, indexOfConnection: 0}
+  - {field: {fileID: 0}, indexOfConnection: 0}
+  - {field: {fileID: 0}, indexOfConnection: 0}
+  - {field: {fileID: 0}, indexOfConnection: 0}
+  - {field: {fileID: 0}, indexOfConnection: 0}
+  - {field: {fileID: 0}, indexOfConnection: 0}
+  - {field: {fileID: 0}, indexOfConnection: 0}
+  - {field: {fileID: 0}, indexOfConnection: 0}
   gridSize: {x: 4, y: 2}
 --- !u!1 &71430096
 GameObject:
@@ -1107,10 +963,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   connectivity: {fileID: 1943752911}
   kind: 0
-  feature:
-    field: {fileID: 142245829}
-    typeId: 15
-    axisType: 1
+  feature: {field: {fileID: 142245829}, typeId: 15, axisType: 1}
   connectedField: {fileID: 0}
 --- !u!65 &142245830
 BoxCollider:
@@ -1200,10 +1053,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   connectivity: {fileID: 2016472044}
   kind: 0
-  feature:
-    field: {fileID: 144369038}
-    typeId: 27
-    axisType: 1
+  feature: {field: {fileID: 144369038}, typeId: 27, axisType: 1}
   connectedField: {fileID: 0}
 --- !u!1 &144552317
 GameObject:
@@ -1502,6 +1352,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c78e27860472f4becbfcc927dff10c1f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  scaleChecker: {fileID: 188224026}
+  componentsEnforcer: {fileID: 188224025}
+  meshRenderer: {fileID: 188224023}
+  meshFilter: {fileID: 188224022}
+  performedSetup: 1
   onlyActiveGameObject: 1
   hideChildren: 1
 --- !u!114 &188224025
@@ -1789,10 +1644,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   connectivity: {fileID: 520033854}
   kind: 0
-  feature:
-    field: {fileID: 240898690}
-    typeId: 2
-    axisType: 1
+  feature: {field: {fileID: 240898690}, typeId: 2, axisType: 1}
   connectedField: {fileID: 1977741152}
 --- !u!4 &240898691
 Transform:
@@ -1882,10 +1734,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   connectivity: {fileID: 1010742302}
   kind: 1
-  feature:
-    field: {fileID: 243681735}
-    typeId: 60
-    axisType: 1
+  feature: {field: {fileID: 243681735}, typeId: 60, axisType: 1}
   connectedField: {fileID: 0}
 --- !u!1 &244173299
 GameObject:
@@ -1948,144 +1797,54 @@ MonoBehaviour:
   connectivity: {fileID: 2016472044}
   kind: 1
   connections:
-  - field: {fileID: 244173302}
-    connectionType: 22
-    quadrants: 1
-    index: 0
-    flags: 1
-    knob: {fileID: 0}
-    tubes: []
-  - field: {fileID: 244173302}
-    connectionType: 22
-    quadrants: 2
-    index: 1
-    flags: 1
-    knob: {fileID: 0}
-    tubes: []
-  - field: {fileID: 244173302}
-    connectionType: 22
-    quadrants: 2
-    index: 2
-    flags: 1
-    knob: {fileID: 0}
-    tubes: []
-  - field: {fileID: 244173302}
-    connectionType: 22
-    quadrants: 2
-    index: 3
-    flags: 1
-    knob: {fileID: 0}
-    tubes: []
-  - field: {fileID: 244173302}
-    connectionType: 22
-    quadrants: 1
-    index: 4
-    flags: 1
-    knob: {fileID: 0}
-    tubes: []
-  - field: {fileID: 244173302}
-    connectionType: 22
-    quadrants: 2
-    index: 5
-    flags: 1
-    knob: {fileID: 0}
-    tubes: []
-  - field: {fileID: 244173302}
-    connectionType: 15
-    quadrants: 4
-    index: 6
-    flags: 0
-    knob: {fileID: 0}
-    tubes: []
-  - field: {fileID: 244173302}
-    connectionType: 23
-    quadrants: 4
-    index: 7
-    flags: 1
-    knob: {fileID: 0}
-    tubes: []
-  - field: {fileID: 244173302}
-    connectionType: 15
-    quadrants: 4
-    index: 8
-    flags: 0
-    knob: {fileID: 0}
-    tubes: []
-  - field: {fileID: 244173302}
-    connectionType: 22
-    quadrants: 2
-    index: 9
-    flags: 1
-    knob: {fileID: 0}
-    tubes: []
-  - field: {fileID: 244173302}
-    connectionType: 22
-    quadrants: 1
-    index: 10
-    flags: 1
-    knob: {fileID: 0}
-    tubes: []
-  - field: {fileID: 244173302}
-    connectionType: 22
-    quadrants: 2
-    index: 11
-    flags: 1
-    knob: {fileID: 0}
-    tubes: []
-  - field: {fileID: 244173302}
-    connectionType: 22
-    quadrants: 2
-    index: 12
-    flags: 1
-    knob: {fileID: 0}
-    tubes: []
-  - field: {fileID: 244173302}
-    connectionType: 22
-    quadrants: 2
-    index: 13
-    flags: 1
-    knob: {fileID: 0}
-    tubes: []
-  - field: {fileID: 244173302}
-    connectionType: 22
-    quadrants: 1
-    index: 14
-    flags: 1
-    knob: {fileID: 0}
-    tubes: []
+  - {field: {fileID: 244173302}, connectionType: 22, quadrants: 1, index: 0, flags: 1, knob: {fileID: 0}, tubes: []
+}
+  - {field: {fileID: 244173302}, connectionType: 22, quadrants: 2, index: 1, flags: 1, knob: {fileID: 0}, tubes: []
+}
+  - {field: {fileID: 244173302}, connectionType: 22, quadrants: 2, index: 2, flags: 1, knob: {fileID: 0}, tubes: []
+}
+  - {field: {fileID: 244173302}, connectionType: 22, quadrants: 2, index: 3, flags: 1, knob: {fileID: 0}, tubes: []
+}
+  - {field: {fileID: 244173302}, connectionType: 22, quadrants: 1, index: 4, flags: 1, knob: {fileID: 0}, tubes: []
+}
+  - {field: {fileID: 244173302}, connectionType: 22, quadrants: 2, index: 5, flags: 1, knob: {fileID: 0}, tubes: []
+}
+  - {field: {fileID: 244173302}, connectionType: 15, quadrants: 4, index: 6, flags: 0, knob: {fileID: 0}, tubes: []
+}
+  - {field: {fileID: 244173302}, connectionType: 23, quadrants: 4, index: 7, flags: 1, knob: {fileID: 0}, tubes: []
+}
+  - {field: {fileID: 244173302}, connectionType: 15, quadrants: 4, index: 8, flags: 0, knob: {fileID: 0}, tubes: []
+}
+  - {field: {fileID: 244173302}, connectionType: 22, quadrants: 2, index: 9, flags: 1, knob: {fileID: 0}, tubes: []
+}
+  - {field: {fileID: 244173302}, connectionType: 22, quadrants: 1, index: 10, flags: 1, knob: {fileID: 0}, tubes: []
+}
+  - {field: {fileID: 244173302}, connectionType: 22, quadrants: 2, index: 11, flags: 1, knob: {fileID: 0}, tubes: []
+}
+  - {field: {fileID: 244173302}, connectionType: 22, quadrants: 2, index: 12, flags: 1, knob: {fileID: 0}, tubes: []
+}
+  - {field: {fileID: 244173302}, connectionType: 22, quadrants: 2, index: 13, flags: 1, knob: {fileID: 0}, tubes: []
+}
+  - {field: {fileID: 244173302}, connectionType: 22, quadrants: 1, index: 14, flags: 1, knob: {fileID: 0}, tubes: []
+}
   connected: 
   connectableConnections: 15
   connectedTo:
-  - field: {fileID: 0}
-    indexOfConnection: 0
-  - field: {fileID: 0}
-    indexOfConnection: 0
-  - field: {fileID: 0}
-    indexOfConnection: 0
-  - field: {fileID: 0}
-    indexOfConnection: 0
-  - field: {fileID: 0}
-    indexOfConnection: 0
-  - field: {fileID: 0}
-    indexOfConnection: 0
-  - field: {fileID: 0}
-    indexOfConnection: 0
-  - field: {fileID: 0}
-    indexOfConnection: 0
-  - field: {fileID: 0}
-    indexOfConnection: 0
-  - field: {fileID: 0}
-    indexOfConnection: 0
-  - field: {fileID: 0}
-    indexOfConnection: 0
-  - field: {fileID: 0}
-    indexOfConnection: 0
-  - field: {fileID: 0}
-    indexOfConnection: 0
-  - field: {fileID: 0}
-    indexOfConnection: 0
-  - field: {fileID: 0}
-    indexOfConnection: 0
+  - {field: {fileID: 0}, indexOfConnection: 0}
+  - {field: {fileID: 0}, indexOfConnection: 0}
+  - {field: {fileID: 0}, indexOfConnection: 0}
+  - {field: {fileID: 0}, indexOfConnection: 0}
+  - {field: {fileID: 0}, indexOfConnection: 0}
+  - {field: {fileID: 0}, indexOfConnection: 0}
+  - {field: {fileID: 0}, indexOfConnection: 0}
+  - {field: {fileID: 0}, indexOfConnection: 0}
+  - {field: {fileID: 0}, indexOfConnection: 0}
+  - {field: {fileID: 0}, indexOfConnection: 0}
+  - {field: {fileID: 0}, indexOfConnection: 0}
+  - {field: {fileID: 0}, indexOfConnection: 0}
+  - {field: {fileID: 0}, indexOfConnection: 0}
+  - {field: {fileID: 0}, indexOfConnection: 0}
+  - {field: {fileID: 0}, indexOfConnection: 0}
   gridSize: {x: 4, y: 2}
 --- !u!1 &249692538
 GameObject:
@@ -2387,12 +2146,9 @@ MonoBehaviour:
   endCapped: 0
   grabbing: 0
   length: 0.58
-  feature:
-    field: {fileID: 368311927}
-    axleType: 11
+  feature: {field: {fileID: 368311927}, axleType: 11}
   connectedTo:
-  - field: {fileID: 1013403389}
-    interaction: 5
+  - {field: {fileID: 1013403389}, interaction: 5}
 --- !u!4 &368311928
 Transform:
   m_ObjectHideFlags: 0
@@ -2538,90 +2294,36 @@ MonoBehaviour:
   connectivity: {fileID: 1069914085}
   kind: 0
   connections:
-  - field: {fileID: 380763635}
-    connectionType: 29
-    quadrants: 0
-    index: 0
-    flags: 0
-    knob: {fileID: 0}
-    tubes: []
-  - field: {fileID: 380763635}
-    connectionType: 29
-    quadrants: 0
-    index: 1
-    flags: 0
-    knob: {fileID: 0}
-    tubes: []
-  - field: {fileID: 380763635}
-    connectionType: 29
-    quadrants: 0
-    index: 2
-    flags: 0
-    knob: {fileID: 0}
-    tubes: []
-  - field: {fileID: 380763635}
-    connectionType: 29
-    quadrants: 0
-    index: 3
-    flags: 0
-    knob: {fileID: 0}
-    tubes: []
-  - field: {fileID: 380763635}
-    connectionType: 3
-    quadrants: 4
-    index: 4
-    flags: 34
-    knob: {fileID: 0}
-    tubes: []
-  - field: {fileID: 380763635}
-    connectionType: 29
-    quadrants: 0
-    index: 5
-    flags: 0
-    knob: {fileID: 0}
-    tubes: []
-  - field: {fileID: 380763635}
-    connectionType: 29
-    quadrants: 0
-    index: 6
-    flags: 0
-    knob: {fileID: 0}
-    tubes: []
-  - field: {fileID: 380763635}
-    connectionType: 29
-    quadrants: 0
-    index: 7
-    flags: 0
-    knob: {fileID: 0}
-    tubes: []
-  - field: {fileID: 380763635}
-    connectionType: 29
-    quadrants: 0
-    index: 8
-    flags: 0
-    knob: {fileID: 0}
-    tubes: []
+  - {field: {fileID: 380763635}, connectionType: 29, quadrants: 0, index: 0, flags: 0, knob: {fileID: 0}, tubes: []
+}
+  - {field: {fileID: 380763635}, connectionType: 29, quadrants: 0, index: 1, flags: 0, knob: {fileID: 0}, tubes: []
+}
+  - {field: {fileID: 380763635}, connectionType: 29, quadrants: 0, index: 2, flags: 0, knob: {fileID: 0}, tubes: []
+}
+  - {field: {fileID: 380763635}, connectionType: 29, quadrants: 0, index: 3, flags: 0, knob: {fileID: 0}, tubes: []
+}
+  - {field: {fileID: 380763635}, connectionType: 3, quadrants: 4, index: 4, flags: 34, knob: {fileID: 0}, tubes: []
+}
+  - {field: {fileID: 380763635}, connectionType: 29, quadrants: 0, index: 5, flags: 0, knob: {fileID: 0}, tubes: []
+}
+  - {field: {fileID: 380763635}, connectionType: 29, quadrants: 0, index: 6, flags: 0, knob: {fileID: 0}, tubes: []
+}
+  - {field: {fileID: 380763635}, connectionType: 29, quadrants: 0, index: 7, flags: 0, knob: {fileID: 0}, tubes: []
+}
+  - {field: {fileID: 380763635}, connectionType: 29, quadrants: 0, index: 8, flags: 0, knob: {fileID: 0}, tubes: []
+}
   connected: 04000000
   connectableConnections: 9
   connectedTo:
-  - field: {fileID: 0}
-    indexOfConnection: 0
-  - field: {fileID: 0}
-    indexOfConnection: 0
-  - field: {fileID: 0}
-    indexOfConnection: 0
-  - field: {fileID: 0}
-    indexOfConnection: 0
-  - field: {fileID: 1564492897}
-    indexOfConnection: 4
-  - field: {fileID: 0}
-    indexOfConnection: 0
-  - field: {fileID: 0}
-    indexOfConnection: 0
-  - field: {fileID: 0}
-    indexOfConnection: 0
-  - field: {fileID: 0}
-    indexOfConnection: 0
+  - {field: {fileID: 0}, indexOfConnection: 0}
+  - {field: {fileID: 0}, indexOfConnection: 0}
+  - {field: {fileID: 0}, indexOfConnection: 0}
+  - {field: {fileID: 0}, indexOfConnection: 0}
+  - {field: {fileID: 1564492897}, indexOfConnection: 4}
+  - {field: {fileID: 0}, indexOfConnection: 0}
+  - {field: {fileID: 0}, indexOfConnection: 0}
+  - {field: {fileID: 0}, indexOfConnection: 0}
+  - {field: {fileID: 0}, indexOfConnection: 0}
   gridSize: {x: 2, y: 2}
 --- !u!4 &380763636
 Transform:
@@ -2991,6 +2693,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6076960a4ddd54b0996d52f1bfdcc6fa, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  scaleChecker: {fileID: 459144221}
+  componentsEnforcer: {fileID: 459144220}
+  meshRenderer: {fileID: 0}
+  meshFilter: {fileID: 0}
+  performedSetup: 1
   onlyActiveGameObject: 1
   hideChildren: 0
 --- !u!114 &459144220
@@ -3225,6 +2932,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c78e27860472f4becbfcc927dff10c1f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  scaleChecker: {fileID: 481129726}
+  componentsEnforcer: {fileID: 481129725}
+  meshRenderer: {fileID: 481129723}
+  meshFilter: {fileID: 481129722}
+  performedSetup: 1
   onlyActiveGameObject: 1
   hideChildren: 1
 --- !u!114 &481129725
@@ -3329,90 +3041,36 @@ MonoBehaviour:
   connectivity: {fileID: 670131097}
   kind: 0
   connections:
-  - field: {fileID: 495691596}
-    connectionType: 29
-    quadrants: 0
-    index: 0
-    flags: 0
-    knob: {fileID: 0}
-    tubes: []
-  - field: {fileID: 495691596}
-    connectionType: 29
-    quadrants: 0
-    index: 1
-    flags: 0
-    knob: {fileID: 0}
-    tubes: []
-  - field: {fileID: 495691596}
-    connectionType: 29
-    quadrants: 0
-    index: 2
-    flags: 0
-    knob: {fileID: 0}
-    tubes: []
-  - field: {fileID: 495691596}
-    connectionType: 29
-    quadrants: 0
-    index: 3
-    flags: 0
-    knob: {fileID: 0}
-    tubes: []
-  - field: {fileID: 495691596}
-    connectionType: 0
-    quadrants: 4
-    index: 4
-    flags: 40
-    knob: {fileID: 0}
-    tubes: []
-  - field: {fileID: 495691596}
-    connectionType: 29
-    quadrants: 0
-    index: 5
-    flags: 0
-    knob: {fileID: 0}
-    tubes: []
-  - field: {fileID: 495691596}
-    connectionType: 29
-    quadrants: 0
-    index: 6
-    flags: 0
-    knob: {fileID: 0}
-    tubes: []
-  - field: {fileID: 495691596}
-    connectionType: 29
-    quadrants: 0
-    index: 7
-    flags: 0
-    knob: {fileID: 0}
-    tubes: []
-  - field: {fileID: 495691596}
-    connectionType: 29
-    quadrants: 0
-    index: 8
-    flags: 0
-    knob: {fileID: 0}
-    tubes: []
+  - {field: {fileID: 495691596}, connectionType: 29, quadrants: 0, index: 0, flags: 0, knob: {fileID: 0}, tubes: []
+}
+  - {field: {fileID: 495691596}, connectionType: 29, quadrants: 0, index: 1, flags: 0, knob: {fileID: 0}, tubes: []
+}
+  - {field: {fileID: 495691596}, connectionType: 29, quadrants: 0, index: 2, flags: 0, knob: {fileID: 0}, tubes: []
+}
+  - {field: {fileID: 495691596}, connectionType: 29, quadrants: 0, index: 3, flags: 0, knob: {fileID: 0}, tubes: []
+}
+  - {field: {fileID: 495691596}, connectionType: 0, quadrants: 4, index: 4, flags: 40, knob: {fileID: 0}, tubes: []
+}
+  - {field: {fileID: 495691596}, connectionType: 29, quadrants: 0, index: 5, flags: 0, knob: {fileID: 0}, tubes: []
+}
+  - {field: {fileID: 495691596}, connectionType: 29, quadrants: 0, index: 6, flags: 0, knob: {fileID: 0}, tubes: []
+}
+  - {field: {fileID: 495691596}, connectionType: 29, quadrants: 0, index: 7, flags: 0, knob: {fileID: 0}, tubes: []
+}
+  - {field: {fileID: 495691596}, connectionType: 29, quadrants: 0, index: 8, flags: 0, knob: {fileID: 0}, tubes: []
+}
   connected: 
   connectableConnections: 9
   connectedTo:
-  - field: {fileID: 0}
-    indexOfConnection: 0
-  - field: {fileID: 0}
-    indexOfConnection: 0
-  - field: {fileID: 0}
-    indexOfConnection: 0
-  - field: {fileID: 0}
-    indexOfConnection: 0
-  - field: {fileID: 0}
-    indexOfConnection: 0
-  - field: {fileID: 0}
-    indexOfConnection: 0
-  - field: {fileID: 0}
-    indexOfConnection: 0
-  - field: {fileID: 0}
-    indexOfConnection: 0
-  - field: {fileID: 0}
-    indexOfConnection: 0
+  - {field: {fileID: 0}, indexOfConnection: 0}
+  - {field: {fileID: 0}, indexOfConnection: 0}
+  - {field: {fileID: 0}, indexOfConnection: 0}
+  - {field: {fileID: 0}, indexOfConnection: 0}
+  - {field: {fileID: 0}, indexOfConnection: 0}
+  - {field: {fileID: 0}, indexOfConnection: 0}
+  - {field: {fileID: 0}, indexOfConnection: 0}
+  - {field: {fileID: 0}, indexOfConnection: 0}
+  - {field: {fileID: 0}, indexOfConnection: 0}
   gridSize: {x: 2, y: 2}
 --- !u!65 &495691597
 BoxCollider:
@@ -4940,90 +4598,36 @@ MonoBehaviour:
   connectivity: {fileID: 151100640}
   kind: 0
   connections:
-  - field: {fileID: 796717161}
-    connectionType: 29
-    quadrants: 0
-    index: 0
-    flags: 0
-    knob: {fileID: 0}
-    tubes: []
-  - field: {fileID: 796717161}
-    connectionType: 29
-    quadrants: 0
-    index: 1
-    flags: 0
-    knob: {fileID: 0}
-    tubes: []
-  - field: {fileID: 796717161}
-    connectionType: 29
-    quadrants: 0
-    index: 2
-    flags: 0
-    knob: {fileID: 0}
-    tubes: []
-  - field: {fileID: 796717161}
-    connectionType: 29
-    quadrants: 0
-    index: 3
-    flags: 0
-    knob: {fileID: 0}
-    tubes: []
-  - field: {fileID: 796717161}
-    connectionType: 0
-    quadrants: 4
-    index: 4
-    flags: 40
-    knob: {fileID: 0}
-    tubes: []
-  - field: {fileID: 796717161}
-    connectionType: 29
-    quadrants: 0
-    index: 5
-    flags: 0
-    knob: {fileID: 0}
-    tubes: []
-  - field: {fileID: 796717161}
-    connectionType: 29
-    quadrants: 0
-    index: 6
-    flags: 0
-    knob: {fileID: 0}
-    tubes: []
-  - field: {fileID: 796717161}
-    connectionType: 29
-    quadrants: 0
-    index: 7
-    flags: 0
-    knob: {fileID: 0}
-    tubes: []
-  - field: {fileID: 796717161}
-    connectionType: 29
-    quadrants: 0
-    index: 8
-    flags: 0
-    knob: {fileID: 0}
-    tubes: []
+  - {field: {fileID: 796717161}, connectionType: 29, quadrants: 0, index: 0, flags: 0, knob: {fileID: 0}, tubes: []
+}
+  - {field: {fileID: 796717161}, connectionType: 29, quadrants: 0, index: 1, flags: 0, knob: {fileID: 0}, tubes: []
+}
+  - {field: {fileID: 796717161}, connectionType: 29, quadrants: 0, index: 2, flags: 0, knob: {fileID: 0}, tubes: []
+}
+  - {field: {fileID: 796717161}, connectionType: 29, quadrants: 0, index: 3, flags: 0, knob: {fileID: 0}, tubes: []
+}
+  - {field: {fileID: 796717161}, connectionType: 0, quadrants: 4, index: 4, flags: 40, knob: {fileID: 0}, tubes: []
+}
+  - {field: {fileID: 796717161}, connectionType: 29, quadrants: 0, index: 5, flags: 0, knob: {fileID: 0}, tubes: []
+}
+  - {field: {fileID: 796717161}, connectionType: 29, quadrants: 0, index: 6, flags: 0, knob: {fileID: 0}, tubes: []
+}
+  - {field: {fileID: 796717161}, connectionType: 29, quadrants: 0, index: 7, flags: 0, knob: {fileID: 0}, tubes: []
+}
+  - {field: {fileID: 796717161}, connectionType: 29, quadrants: 0, index: 8, flags: 0, knob: {fileID: 0}, tubes: []
+}
   connected: 
   connectableConnections: 9
   connectedTo:
-  - field: {fileID: 0}
-    indexOfConnection: 0
-  - field: {fileID: 0}
-    indexOfConnection: 0
-  - field: {fileID: 0}
-    indexOfConnection: 0
-  - field: {fileID: 0}
-    indexOfConnection: 0
-  - field: {fileID: 0}
-    indexOfConnection: 0
-  - field: {fileID: 0}
-    indexOfConnection: 0
-  - field: {fileID: 0}
-    indexOfConnection: 0
-  - field: {fileID: 0}
-    indexOfConnection: 0
-  - field: {fileID: 0}
-    indexOfConnection: 0
+  - {field: {fileID: 0}, indexOfConnection: 0}
+  - {field: {fileID: 0}, indexOfConnection: 0}
+  - {field: {fileID: 0}, indexOfConnection: 0}
+  - {field: {fileID: 0}, indexOfConnection: 0}
+  - {field: {fileID: 0}, indexOfConnection: 0}
+  - {field: {fileID: 0}, indexOfConnection: 0}
+  - {field: {fileID: 0}, indexOfConnection: 0}
+  - {field: {fileID: 0}, indexOfConnection: 0}
+  - {field: {fileID: 0}, indexOfConnection: 0}
   gridSize: {x: 2, y: 2}
 --- !u!65 &796717162
 BoxCollider:
@@ -5822,6 +5426,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6076960a4ddd54b0996d52f1bfdcc6fa, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  scaleChecker: {fileID: 950169030}
+  componentsEnforcer: {fileID: 950169029}
+  meshRenderer: {fileID: 0}
+  meshFilter: {fileID: 0}
+  performedSetup: 1
   onlyActiveGameObject: 1
   hideChildren: 0
 --- !u!114 &950169029
@@ -5981,6 +5590,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c78e27860472f4becbfcc927dff10c1f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  scaleChecker: {fileID: 951602565}
+  componentsEnforcer: {fileID: 951602564}
+  meshRenderer: {fileID: 951602562}
+  meshFilter: {fileID: 951602561}
+  performedSetup: 1
   onlyActiveGameObject: 1
   hideChildren: 1
 --- !u!114 &951602564
@@ -6617,12 +6231,9 @@ MonoBehaviour:
   endCapped: 1
   grabbing: 0
   length: 0.71
-  feature:
-    field: {fileID: 1013403389}
-    axleType: 10
+  feature: {field: {fileID: 1013403389}, axleType: 10}
   connectedTo:
-  - field: {fileID: 368311927}
-    interaction: 5
+  - {field: {fileID: 368311927}, interaction: 5}
 --- !u!1 &1015383468
 GameObject:
   m_ObjectHideFlags: 0
@@ -6778,6 +6389,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c78e27860472f4becbfcc927dff10c1f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  scaleChecker: {fileID: 1027662303}
+  componentsEnforcer: {fileID: 1027662302}
+  meshRenderer: {fileID: 1027662300}
+  meshFilter: {fileID: 1027662299}
+  performedSetup: 1
   onlyActiveGameObject: 1
   hideChildren: 1
 --- !u!114 &1027662302
@@ -7002,10 +6618,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   connectivity: {fileID: 520033854}
   kind: 0
-  feature:
-    field: {fileID: 1052181722}
-    typeId: 2
-    axisType: 1
+  feature: {field: {fileID: 1052181722}, typeId: 2, axisType: 1}
   connectedField: {fileID: 2021796350}
 --- !u!1 &1052373881
 GameObject:
@@ -7357,10 +6970,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   connectivity: {fileID: 1069914085}
   kind: 0
-  feature:
-    field: {fileID: 1123592992}
-    typeId: 74
-    axisType: 1
+  feature: {field: {fileID: 1123592992}, typeId: 74, axisType: 1}
   connectedField: {fileID: 0}
 --- !u!65 &1123592993
 BoxCollider:
@@ -7768,6 +7378,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c78e27860472f4becbfcc927dff10c1f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  scaleChecker: {fileID: 1173158297}
+  componentsEnforcer: {fileID: 1173158296}
+  meshRenderer: {fileID: 1173158294}
+  meshFilter: {fileID: 1173158293}
+  performedSetup: 1
   onlyActiveGameObject: 1
   hideChildren: 1
 --- !u!114 &1173158296
@@ -8667,10 +8282,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   connectivity: {fileID: 1010742302}
   kind: 0
-  feature:
-    field: {fileID: 1263596408}
-    typeId: 27
-    axisType: 1
+  feature: {field: {fileID: 1263596408}, typeId: 27, axisType: 1}
   connectedField: {fileID: 0}
 --- !u!1 &1264132948
 GameObject:
@@ -8882,6 +8494,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c78e27860472f4becbfcc927dff10c1f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  scaleChecker: {fileID: 1275204520}
+  componentsEnforcer: {fileID: 1275204519}
+  meshRenderer: {fileID: 1275204517}
+  meshFilter: {fileID: 1275204516}
+  performedSetup: 1
   onlyActiveGameObject: 1
   hideChildren: 1
 --- !u!114 &1275204519
@@ -9264,6 +8881,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6076960a4ddd54b0996d52f1bfdcc6fa, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  scaleChecker: {fileID: 1347186508}
+  componentsEnforcer: {fileID: 1347186507}
+  meshRenderer: {fileID: 0}
+  meshFilter: {fileID: 0}
+  performedSetup: 1
   onlyActiveGameObject: 1
   hideChildren: 0
 --- !u!114 &1347186507
@@ -9752,9 +9374,7 @@ MonoBehaviour:
   endCapped: 0
   grabbing: 1
   length: 0.44
-  feature:
-    field: {fileID: 1449087819}
-    axleType: 6
+  feature: {field: {fileID: 1449087819}, axleType: 6}
   connectedTo: []
 --- !u!1 &1462297472
 GameObject:
@@ -9926,10 +9546,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   connectivity: {fileID: 2016472044}
   kind: 1
-  feature:
-    field: {fileID: 1478448442}
-    typeId: 60
-    axisType: 1
+  feature: {field: {fileID: 1478448442}, typeId: 60, axisType: 1}
   connectedField: {fileID: 0}
 --- !u!1 &1498346920
 GameObject:
@@ -10165,90 +9782,36 @@ MonoBehaviour:
   connectivity: {fileID: 2016472044}
   kind: 1
   connections:
-  - field: {fileID: 1520741223}
-    connectionType: 22
-    quadrants: 1
-    index: 0
-    flags: 1
-    knob: {fileID: 0}
-    tubes: []
-  - field: {fileID: 1520741223}
-    connectionType: 22
-    quadrants: 2
-    index: 1
-    flags: 1
-    knob: {fileID: 0}
-    tubes: []
-  - field: {fileID: 1520741223}
-    connectionType: 22
-    quadrants: 1
-    index: 2
-    flags: 1
-    knob: {fileID: 0}
-    tubes: []
-  - field: {fileID: 1520741223}
-    connectionType: 22
-    quadrants: 2
-    index: 3
-    flags: 1
-    knob: {fileID: 0}
-    tubes: []
-  - field: {fileID: 1520741223}
-    connectionType: 15
-    quadrants: 4
-    index: 4
-    flags: 0
-    knob: {fileID: 0}
-    tubes: []
-  - field: {fileID: 1520741223}
-    connectionType: 22
-    quadrants: 2
-    index: 5
-    flags: 1
-    knob: {fileID: 0}
-    tubes: []
-  - field: {fileID: 1520741223}
-    connectionType: 22
-    quadrants: 1
-    index: 6
-    flags: 1
-    knob: {fileID: 0}
-    tubes: []
-  - field: {fileID: 1520741223}
-    connectionType: 22
-    quadrants: 2
-    index: 7
-    flags: 1
-    knob: {fileID: 0}
-    tubes: []
-  - field: {fileID: 1520741223}
-    connectionType: 22
-    quadrants: 1
-    index: 8
-    flags: 1
-    knob: {fileID: 0}
-    tubes: []
+  - {field: {fileID: 1520741223}, connectionType: 22, quadrants: 1, index: 0, flags: 1, knob: {fileID: 0}, tubes: []
+}
+  - {field: {fileID: 1520741223}, connectionType: 22, quadrants: 2, index: 1, flags: 1, knob: {fileID: 0}, tubes: []
+}
+  - {field: {fileID: 1520741223}, connectionType: 22, quadrants: 1, index: 2, flags: 1, knob: {fileID: 0}, tubes: []
+}
+  - {field: {fileID: 1520741223}, connectionType: 22, quadrants: 2, index: 3, flags: 1, knob: {fileID: 0}, tubes: []
+}
+  - {field: {fileID: 1520741223}, connectionType: 15, quadrants: 4, index: 4, flags: 0, knob: {fileID: 0}, tubes: []
+}
+  - {field: {fileID: 1520741223}, connectionType: 22, quadrants: 2, index: 5, flags: 1, knob: {fileID: 0}, tubes: []
+}
+  - {field: {fileID: 1520741223}, connectionType: 22, quadrants: 1, index: 6, flags: 1, knob: {fileID: 0}, tubes: []
+}
+  - {field: {fileID: 1520741223}, connectionType: 22, quadrants: 2, index: 7, flags: 1, knob: {fileID: 0}, tubes: []
+}
+  - {field: {fileID: 1520741223}, connectionType: 22, quadrants: 1, index: 8, flags: 1, knob: {fileID: 0}, tubes: []
+}
   connected: 
   connectableConnections: 9
   connectedTo:
-  - field: {fileID: 0}
-    indexOfConnection: 0
-  - field: {fileID: 0}
-    indexOfConnection: 0
-  - field: {fileID: 0}
-    indexOfConnection: 0
-  - field: {fileID: 0}
-    indexOfConnection: 0
-  - field: {fileID: 0}
-    indexOfConnection: 0
-  - field: {fileID: 0}
-    indexOfConnection: 0
-  - field: {fileID: 0}
-    indexOfConnection: 0
-  - field: {fileID: 0}
-    indexOfConnection: 0
-  - field: {fileID: 0}
-    indexOfConnection: 0
+  - {field: {fileID: 0}, indexOfConnection: 0}
+  - {field: {fileID: 0}, indexOfConnection: 0}
+  - {field: {fileID: 0}, indexOfConnection: 0}
+  - {field: {fileID: 0}, indexOfConnection: 0}
+  - {field: {fileID: 0}, indexOfConnection: 0}
+  - {field: {fileID: 0}, indexOfConnection: 0}
+  - {field: {fileID: 0}, indexOfConnection: 0}
+  - {field: {fileID: 0}, indexOfConnection: 0}
+  - {field: {fileID: 0}, indexOfConnection: 0}
   gridSize: {x: 2, y: 2}
 --- !u!1 &1526470760
 GameObject:
@@ -10577,90 +10140,36 @@ MonoBehaviour:
   connectivity: {fileID: 424920201}
   kind: 1
   connections:
-  - field: {fileID: 1564492897}
-    connectionType: 29
-    quadrants: 0
-    index: 0
-    flags: 0
-    knob: {fileID: 0}
-    tubes: []
-  - field: {fileID: 1564492897}
-    connectionType: 29
-    quadrants: 0
-    index: 1
-    flags: 0
-    knob: {fileID: 0}
-    tubes: []
-  - field: {fileID: 1564492897}
-    connectionType: 29
-    quadrants: 0
-    index: 2
-    flags: 0
-    knob: {fileID: 0}
-    tubes: []
-  - field: {fileID: 1564492897}
-    connectionType: 29
-    quadrants: 0
-    index: 3
-    flags: 0
-    knob: {fileID: 0}
-    tubes: []
-  - field: {fileID: 1564492897}
-    connectionType: 5
-    quadrants: 4
-    index: 4
-    flags: 33
-    knob: {fileID: 0}
-    tubes: []
-  - field: {fileID: 1564492897}
-    connectionType: 29
-    quadrants: 0
-    index: 5
-    flags: 0
-    knob: {fileID: 0}
-    tubes: []
-  - field: {fileID: 1564492897}
-    connectionType: 29
-    quadrants: 0
-    index: 6
-    flags: 0
-    knob: {fileID: 0}
-    tubes: []
-  - field: {fileID: 1564492897}
-    connectionType: 29
-    quadrants: 0
-    index: 7
-    flags: 0
-    knob: {fileID: 0}
-    tubes: []
-  - field: {fileID: 1564492897}
-    connectionType: 29
-    quadrants: 0
-    index: 8
-    flags: 0
-    knob: {fileID: 0}
-    tubes: []
+  - {field: {fileID: 1564492897}, connectionType: 29, quadrants: 0, index: 0, flags: 0, knob: {fileID: 0}, tubes: []
+}
+  - {field: {fileID: 1564492897}, connectionType: 29, quadrants: 0, index: 1, flags: 0, knob: {fileID: 0}, tubes: []
+}
+  - {field: {fileID: 1564492897}, connectionType: 29, quadrants: 0, index: 2, flags: 0, knob: {fileID: 0}, tubes: []
+}
+  - {field: {fileID: 1564492897}, connectionType: 29, quadrants: 0, index: 3, flags: 0, knob: {fileID: 0}, tubes: []
+}
+  - {field: {fileID: 1564492897}, connectionType: 5, quadrants: 4, index: 4, flags: 33, knob: {fileID: 0}, tubes: []
+}
+  - {field: {fileID: 1564492897}, connectionType: 29, quadrants: 0, index: 5, flags: 0, knob: {fileID: 0}, tubes: []
+}
+  - {field: {fileID: 1564492897}, connectionType: 29, quadrants: 0, index: 6, flags: 0, knob: {fileID: 0}, tubes: []
+}
+  - {field: {fileID: 1564492897}, connectionType: 29, quadrants: 0, index: 7, flags: 0, knob: {fileID: 0}, tubes: []
+}
+  - {field: {fileID: 1564492897}, connectionType: 29, quadrants: 0, index: 8, flags: 0, knob: {fileID: 0}, tubes: []
+}
   connected: 04000000
   connectableConnections: 9
   connectedTo:
-  - field: {fileID: 0}
-    indexOfConnection: 0
-  - field: {fileID: 0}
-    indexOfConnection: 0
-  - field: {fileID: 0}
-    indexOfConnection: 0
-  - field: {fileID: 0}
-    indexOfConnection: 0
-  - field: {fileID: 380763635}
-    indexOfConnection: 4
-  - field: {fileID: 0}
-    indexOfConnection: 0
-  - field: {fileID: 0}
-    indexOfConnection: 0
-  - field: {fileID: 0}
-    indexOfConnection: 0
-  - field: {fileID: 0}
-    indexOfConnection: 0
+  - {field: {fileID: 0}, indexOfConnection: 0}
+  - {field: {fileID: 0}, indexOfConnection: 0}
+  - {field: {fileID: 0}, indexOfConnection: 0}
+  - {field: {fileID: 0}, indexOfConnection: 0}
+  - {field: {fileID: 380763635}, indexOfConnection: 4}
+  - {field: {fileID: 0}, indexOfConnection: 0}
+  - {field: {fileID: 0}, indexOfConnection: 0}
+  - {field: {fileID: 0}, indexOfConnection: 0}
+  - {field: {fileID: 0}, indexOfConnection: 0}
   gridSize: {x: 2, y: 2}
 --- !u!1 &1595233664
 GameObject:
@@ -10722,10 +10231,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   connectivity: {fileID: 1943752911}
   kind: 0
-  feature:
-    field: {fileID: 1595233667}
-    typeId: 15
-    axisType: 1
+  feature: {field: {fileID: 1595233667}, typeId: 15, axisType: 1}
   connectedField: {fileID: 0}
 --- !u!1 &1611573470
 GameObject:
@@ -10788,90 +10294,36 @@ MonoBehaviour:
   connectivity: {fileID: 1069914085}
   kind: 1
   connections:
-  - field: {fileID: 1611573473}
-    connectionType: 29
-    quadrants: 0
-    index: 0
-    flags: 0
-    knob: {fileID: 0}
-    tubes: []
-  - field: {fileID: 1611573473}
-    connectionType: 29
-    quadrants: 0
-    index: 1
-    flags: 0
-    knob: {fileID: 0}
-    tubes: []
-  - field: {fileID: 1611573473}
-    connectionType: 29
-    quadrants: 0
-    index: 2
-    flags: 0
-    knob: {fileID: 0}
-    tubes: []
-  - field: {fileID: 1611573473}
-    connectionType: 29
-    quadrants: 0
-    index: 3
-    flags: 0
-    knob: {fileID: 0}
-    tubes: []
-  - field: {fileID: 1611573473}
-    connectionType: 5
-    quadrants: 4
-    index: 4
-    flags: 33
-    knob: {fileID: 0}
-    tubes: []
-  - field: {fileID: 1611573473}
-    connectionType: 29
-    quadrants: 0
-    index: 5
-    flags: 0
-    knob: {fileID: 0}
-    tubes: []
-  - field: {fileID: 1611573473}
-    connectionType: 29
-    quadrants: 0
-    index: 6
-    flags: 0
-    knob: {fileID: 0}
-    tubes: []
-  - field: {fileID: 1611573473}
-    connectionType: 29
-    quadrants: 0
-    index: 7
-    flags: 0
-    knob: {fileID: 0}
-    tubes: []
-  - field: {fileID: 1611573473}
-    connectionType: 29
-    quadrants: 0
-    index: 8
-    flags: 0
-    knob: {fileID: 0}
-    tubes: []
+  - {field: {fileID: 1611573473}, connectionType: 29, quadrants: 0, index: 0, flags: 0, knob: {fileID: 0}, tubes: []
+}
+  - {field: {fileID: 1611573473}, connectionType: 29, quadrants: 0, index: 1, flags: 0, knob: {fileID: 0}, tubes: []
+}
+  - {field: {fileID: 1611573473}, connectionType: 29, quadrants: 0, index: 2, flags: 0, knob: {fileID: 0}, tubes: []
+}
+  - {field: {fileID: 1611573473}, connectionType: 29, quadrants: 0, index: 3, flags: 0, knob: {fileID: 0}, tubes: []
+}
+  - {field: {fileID: 1611573473}, connectionType: 5, quadrants: 4, index: 4, flags: 33, knob: {fileID: 0}, tubes: []
+}
+  - {field: {fileID: 1611573473}, connectionType: 29, quadrants: 0, index: 5, flags: 0, knob: {fileID: 0}, tubes: []
+}
+  - {field: {fileID: 1611573473}, connectionType: 29, quadrants: 0, index: 6, flags: 0, knob: {fileID: 0}, tubes: []
+}
+  - {field: {fileID: 1611573473}, connectionType: 29, quadrants: 0, index: 7, flags: 0, knob: {fileID: 0}, tubes: []
+}
+  - {field: {fileID: 1611573473}, connectionType: 29, quadrants: 0, index: 8, flags: 0, knob: {fileID: 0}, tubes: []
+}
   connected: 04000000
   connectableConnections: 9
   connectedTo:
-  - field: {fileID: 0}
-    indexOfConnection: 0
-  - field: {fileID: 0}
-    indexOfConnection: 0
-  - field: {fileID: 0}
-    indexOfConnection: 0
-  - field: {fileID: 0}
-    indexOfConnection: 0
-  - field: {fileID: 2024652875}
-    indexOfConnection: 4
-  - field: {fileID: 0}
-    indexOfConnection: 0
-  - field: {fileID: 0}
-    indexOfConnection: 0
-  - field: {fileID: 0}
-    indexOfConnection: 0
-  - field: {fileID: 0}
-    indexOfConnection: 0
+  - {field: {fileID: 0}, indexOfConnection: 0}
+  - {field: {fileID: 0}, indexOfConnection: 0}
+  - {field: {fileID: 0}, indexOfConnection: 0}
+  - {field: {fileID: 0}, indexOfConnection: 0}
+  - {field: {fileID: 2024652875}, indexOfConnection: 4}
+  - {field: {fileID: 0}, indexOfConnection: 0}
+  - {field: {fileID: 0}, indexOfConnection: 0}
+  - {field: {fileID: 0}, indexOfConnection: 0}
+  - {field: {fileID: 0}, indexOfConnection: 0}
   gridSize: {x: 2, y: 2}
 --- !u!1 &1627301523
 GameObject:
@@ -11658,10 +11110,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   connectivity: {fileID: 520033854}
   kind: 0
-  feature:
-    field: {fileID: 1877472836}
-    typeId: 2
-    axisType: 1
+  feature: {field: {fileID: 1877472836}, typeId: 2, axisType: 1}
   connectedField: {fileID: 0}
 --- !u!1 &1891185589
 GameObject:
@@ -12090,10 +11539,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   connectivity: {fileID: 1943752911}
   kind: 1
-  feature:
-    field: {fileID: 1977741152}
-    typeId: 2
-    axisType: 1
+  feature: {field: {fileID: 1977741152}, typeId: 2, axisType: 1}
   connectedField: {fileID: 240898690}
 --- !u!1 &1978002199
 GameObject:
@@ -12281,10 +11727,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   connectivity: {fileID: 1069914085}
   kind: 0
-  feature:
-    field: {fileID: 1989601482}
-    typeId: 74
-    axisType: 1
+  feature: {field: {fileID: 1989601482}, typeId: 74, axisType: 1}
   connectedField: {fileID: 0}
 --- !u!1 &2004922251
 GameObject:
@@ -12318,10 +11761,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   connectivity: {fileID: 520033854}
   kind: 0
-  feature:
-    field: {fileID: 2004922252}
-    typeId: 2
-    axisType: 1
+  feature: {field: {fileID: 2004922252}, typeId: 2, axisType: 1}
   connectedField: {fileID: 0}
 --- !u!65 &2004922253
 BoxCollider:
@@ -12500,9 +11940,7 @@ MonoBehaviour:
   endCapped: 0
   grabbing: 1
   length: 0.44
-  feature:
-    field: {fileID: 2015053000}
-    axleType: 6
+  feature: {field: {fileID: 2015053000}, axleType: 6}
   connectedTo: []
 --- !u!1 &2016472042
 GameObject:
@@ -12624,10 +12062,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   connectivity: {fileID: 1943752911}
   kind: 1
-  feature:
-    field: {fileID: 2021796350}
-    typeId: 2
-    axisType: 1
+  feature: {field: {fileID: 2021796350}, typeId: 2, axisType: 1}
   connectedField: {fileID: 1052181722}
 --- !u!1 &2024248567
 GameObject:
@@ -12690,144 +12125,54 @@ MonoBehaviour:
   connectivity: {fileID: 1010742302}
   kind: 1
   connections:
-  - field: {fileID: 2024248570}
-    connectionType: 22
-    quadrants: 1
-    index: 0
-    flags: 1
-    knob: {fileID: 0}
-    tubes: []
-  - field: {fileID: 2024248570}
-    connectionType: 22
-    quadrants: 2
-    index: 1
-    flags: 1
-    knob: {fileID: 0}
-    tubes: []
-  - field: {fileID: 2024248570}
-    connectionType: 22
-    quadrants: 2
-    index: 2
-    flags: 1
-    knob: {fileID: 0}
-    tubes: []
-  - field: {fileID: 2024248570}
-    connectionType: 22
-    quadrants: 2
-    index: 3
-    flags: 1
-    knob: {fileID: 0}
-    tubes: []
-  - field: {fileID: 2024248570}
-    connectionType: 22
-    quadrants: 1
-    index: 4
-    flags: 1
-    knob: {fileID: 0}
-    tubes: []
-  - field: {fileID: 2024248570}
-    connectionType: 22
-    quadrants: 2
-    index: 5
-    flags: 1
-    knob: {fileID: 0}
-    tubes: []
-  - field: {fileID: 2024248570}
-    connectionType: 15
-    quadrants: 4
-    index: 6
-    flags: 0
-    knob: {fileID: 0}
-    tubes: []
-  - field: {fileID: 2024248570}
-    connectionType: 23
-    quadrants: 4
-    index: 7
-    flags: 1
-    knob: {fileID: 0}
-    tubes: []
-  - field: {fileID: 2024248570}
-    connectionType: 15
-    quadrants: 4
-    index: 8
-    flags: 0
-    knob: {fileID: 0}
-    tubes: []
-  - field: {fileID: 2024248570}
-    connectionType: 22
-    quadrants: 2
-    index: 9
-    flags: 1
-    knob: {fileID: 0}
-    tubes: []
-  - field: {fileID: 2024248570}
-    connectionType: 22
-    quadrants: 1
-    index: 10
-    flags: 1
-    knob: {fileID: 0}
-    tubes: []
-  - field: {fileID: 2024248570}
-    connectionType: 22
-    quadrants: 2
-    index: 11
-    flags: 1
-    knob: {fileID: 0}
-    tubes: []
-  - field: {fileID: 2024248570}
-    connectionType: 22
-    quadrants: 2
-    index: 12
-    flags: 1
-    knob: {fileID: 0}
-    tubes: []
-  - field: {fileID: 2024248570}
-    connectionType: 22
-    quadrants: 2
-    index: 13
-    flags: 1
-    knob: {fileID: 0}
-    tubes: []
-  - field: {fileID: 2024248570}
-    connectionType: 22
-    quadrants: 1
-    index: 14
-    flags: 1
-    knob: {fileID: 0}
-    tubes: []
+  - {field: {fileID: 2024248570}, connectionType: 22, quadrants: 1, index: 0, flags: 1, knob: {fileID: 0}, tubes: []
+}
+  - {field: {fileID: 2024248570}, connectionType: 22, quadrants: 2, index: 1, flags: 1, knob: {fileID: 0}, tubes: []
+}
+  - {field: {fileID: 2024248570}, connectionType: 22, quadrants: 2, index: 2, flags: 1, knob: {fileID: 0}, tubes: []
+}
+  - {field: {fileID: 2024248570}, connectionType: 22, quadrants: 2, index: 3, flags: 1, knob: {fileID: 0}, tubes: []
+}
+  - {field: {fileID: 2024248570}, connectionType: 22, quadrants: 1, index: 4, flags: 1, knob: {fileID: 0}, tubes: []
+}
+  - {field: {fileID: 2024248570}, connectionType: 22, quadrants: 2, index: 5, flags: 1, knob: {fileID: 0}, tubes: []
+}
+  - {field: {fileID: 2024248570}, connectionType: 15, quadrants: 4, index: 6, flags: 0, knob: {fileID: 0}, tubes: []
+}
+  - {field: {fileID: 2024248570}, connectionType: 23, quadrants: 4, index: 7, flags: 1, knob: {fileID: 0}, tubes: []
+}
+  - {field: {fileID: 2024248570}, connectionType: 15, quadrants: 4, index: 8, flags: 0, knob: {fileID: 0}, tubes: []
+}
+  - {field: {fileID: 2024248570}, connectionType: 22, quadrants: 2, index: 9, flags: 1, knob: {fileID: 0}, tubes: []
+}
+  - {field: {fileID: 2024248570}, connectionType: 22, quadrants: 1, index: 10, flags: 1, knob: {fileID: 0}, tubes: []
+}
+  - {field: {fileID: 2024248570}, connectionType: 22, quadrants: 2, index: 11, flags: 1, knob: {fileID: 0}, tubes: []
+}
+  - {field: {fileID: 2024248570}, connectionType: 22, quadrants: 2, index: 12, flags: 1, knob: {fileID: 0}, tubes: []
+}
+  - {field: {fileID: 2024248570}, connectionType: 22, quadrants: 2, index: 13, flags: 1, knob: {fileID: 0}, tubes: []
+}
+  - {field: {fileID: 2024248570}, connectionType: 22, quadrants: 1, index: 14, flags: 1, knob: {fileID: 0}, tubes: []
+}
   connected: 
   connectableConnections: 15
   connectedTo:
-  - field: {fileID: 0}
-    indexOfConnection: 0
-  - field: {fileID: 0}
-    indexOfConnection: 0
-  - field: {fileID: 0}
-    indexOfConnection: 0
-  - field: {fileID: 0}
-    indexOfConnection: 0
-  - field: {fileID: 0}
-    indexOfConnection: 0
-  - field: {fileID: 0}
-    indexOfConnection: 0
-  - field: {fileID: 0}
-    indexOfConnection: 0
-  - field: {fileID: 0}
-    indexOfConnection: 0
-  - field: {fileID: 0}
-    indexOfConnection: 0
-  - field: {fileID: 0}
-    indexOfConnection: 0
-  - field: {fileID: 0}
-    indexOfConnection: 0
-  - field: {fileID: 0}
-    indexOfConnection: 0
-  - field: {fileID: 0}
-    indexOfConnection: 0
-  - field: {fileID: 0}
-    indexOfConnection: 0
-  - field: {fileID: 0}
-    indexOfConnection: 0
+  - {field: {fileID: 0}, indexOfConnection: 0}
+  - {field: {fileID: 0}, indexOfConnection: 0}
+  - {field: {fileID: 0}, indexOfConnection: 0}
+  - {field: {fileID: 0}, indexOfConnection: 0}
+  - {field: {fileID: 0}, indexOfConnection: 0}
+  - {field: {fileID: 0}, indexOfConnection: 0}
+  - {field: {fileID: 0}, indexOfConnection: 0}
+  - {field: {fileID: 0}, indexOfConnection: 0}
+  - {field: {fileID: 0}, indexOfConnection: 0}
+  - {field: {fileID: 0}, indexOfConnection: 0}
+  - {field: {fileID: 0}, indexOfConnection: 0}
+  - {field: {fileID: 0}, indexOfConnection: 0}
+  - {field: {fileID: 0}, indexOfConnection: 0}
+  - {field: {fileID: 0}, indexOfConnection: 0}
+  - {field: {fileID: 0}, indexOfConnection: 0}
   gridSize: {x: 4, y: 2}
 --- !u!1 &2024652872
 GameObject:
@@ -12890,90 +12235,36 @@ MonoBehaviour:
   connectivity: {fileID: 1943752911}
   kind: 0
   connections:
-  - field: {fileID: 2024652875}
-    connectionType: 29
-    quadrants: 0
-    index: 0
-    flags: 0
-    knob: {fileID: 0}
-    tubes: []
-  - field: {fileID: 2024652875}
-    connectionType: 29
-    quadrants: 0
-    index: 1
-    flags: 0
-    knob: {fileID: 0}
-    tubes: []
-  - field: {fileID: 2024652875}
-    connectionType: 29
-    quadrants: 0
-    index: 2
-    flags: 0
-    knob: {fileID: 0}
-    tubes: []
-  - field: {fileID: 2024652875}
-    connectionType: 29
-    quadrants: 0
-    index: 3
-    flags: 0
-    knob: {fileID: 0}
-    tubes: []
-  - field: {fileID: 2024652875}
-    connectionType: 0
-    quadrants: 4
-    index: 4
-    flags: 33
-    knob: {fileID: 0}
-    tubes: []
-  - field: {fileID: 2024652875}
-    connectionType: 29
-    quadrants: 0
-    index: 5
-    flags: 0
-    knob: {fileID: 0}
-    tubes: []
-  - field: {fileID: 2024652875}
-    connectionType: 29
-    quadrants: 0
-    index: 6
-    flags: 0
-    knob: {fileID: 0}
-    tubes: []
-  - field: {fileID: 2024652875}
-    connectionType: 29
-    quadrants: 0
-    index: 7
-    flags: 0
-    knob: {fileID: 0}
-    tubes: []
-  - field: {fileID: 2024652875}
-    connectionType: 29
-    quadrants: 0
-    index: 8
-    flags: 0
-    knob: {fileID: 0}
-    tubes: []
+  - {field: {fileID: 2024652875}, connectionType: 29, quadrants: 0, index: 0, flags: 0, knob: {fileID: 0}, tubes: []
+}
+  - {field: {fileID: 2024652875}, connectionType: 29, quadrants: 0, index: 1, flags: 0, knob: {fileID: 0}, tubes: []
+}
+  - {field: {fileID: 2024652875}, connectionType: 29, quadrants: 0, index: 2, flags: 0, knob: {fileID: 0}, tubes: []
+}
+  - {field: {fileID: 2024652875}, connectionType: 29, quadrants: 0, index: 3, flags: 0, knob: {fileID: 0}, tubes: []
+}
+  - {field: {fileID: 2024652875}, connectionType: 0, quadrants: 4, index: 4, flags: 33, knob: {fileID: 0}, tubes: []
+}
+  - {field: {fileID: 2024652875}, connectionType: 29, quadrants: 0, index: 5, flags: 0, knob: {fileID: 0}, tubes: []
+}
+  - {field: {fileID: 2024652875}, connectionType: 29, quadrants: 0, index: 6, flags: 0, knob: {fileID: 0}, tubes: []
+}
+  - {field: {fileID: 2024652875}, connectionType: 29, quadrants: 0, index: 7, flags: 0, knob: {fileID: 0}, tubes: []
+}
+  - {field: {fileID: 2024652875}, connectionType: 29, quadrants: 0, index: 8, flags: 0, knob: {fileID: 0}, tubes: []
+}
   connected: 04000000
   connectableConnections: 9
   connectedTo:
-  - field: {fileID: 0}
-    indexOfConnection: 0
-  - field: {fileID: 0}
-    indexOfConnection: 0
-  - field: {fileID: 0}
-    indexOfConnection: 0
-  - field: {fileID: 0}
-    indexOfConnection: 0
-  - field: {fileID: 1611573473}
-    indexOfConnection: 4
-  - field: {fileID: 0}
-    indexOfConnection: 0
-  - field: {fileID: 0}
-    indexOfConnection: 0
-  - field: {fileID: 0}
-    indexOfConnection: 0
-  - field: {fileID: 0}
-    indexOfConnection: 0
+  - {field: {fileID: 0}, indexOfConnection: 0}
+  - {field: {fileID: 0}, indexOfConnection: 0}
+  - {field: {fileID: 0}, indexOfConnection: 0}
+  - {field: {fileID: 0}, indexOfConnection: 0}
+  - {field: {fileID: 1611573473}, indexOfConnection: 4}
+  - {field: {fileID: 0}, indexOfConnection: 0}
+  - {field: {fileID: 0}, indexOfConnection: 0}
+  - {field: {fileID: 0}, indexOfConnection: 0}
+  - {field: {fileID: 0}, indexOfConnection: 0}
   gridSize: {x: 2, y: 2}
 --- !u!1 &2030493882
 GameObject:
@@ -13023,6 +12314,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6076960a4ddd54b0996d52f1bfdcc6fa, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  scaleChecker: {fileID: 2030493886}
+  componentsEnforcer: {fileID: 2030493885}
+  meshRenderer: {fileID: 0}
+  meshFilter: {fileID: 0}
+  performedSetup: 1
   onlyActiveGameObject: 1
   hideChildren: 0
 --- !u!114 &2030493885
@@ -13111,8 +12407,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6c7ddecad95f24096842f8b8c7397553, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  scaleChecker: {fileID: 2055677023}
+  componentsEnforcer: {fileID: 2055677022}
+  meshRenderer: {fileID: 0}
+  meshFilter: {fileID: 0}
+  performedSetup: 1
   onlyActiveGameObject: 0
   hideChildren: 0
+  parentChecker: {fileID: 2055677024}
 --- !u!114 &2055677022
 MonoBehaviour:
   m_ObjectHideFlags: 10
@@ -13441,6 +12743,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c78e27860472f4becbfcc927dff10c1f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  scaleChecker: {fileID: 2089633436}
+  componentsEnforcer: {fileID: 2089633435}
+  meshRenderer: {fileID: 2089633433}
+  meshFilter: {fileID: 2089633432}
+  performedSetup: 1
   onlyActiveGameObject: 1
   hideChildren: 1
 --- !u!114 &2089633435
